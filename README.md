@@ -1,0 +1,3 @@
+# CARETROTTER
+
+### Caretrotter is a US-based freelancing platform designed exclusively for healthcare professionals, particularly doctors. It connects skilled medical practitioners with healthcare facilities and patients seeking specialized services. With a streamlined user interface and secure payment gateway, Caretrotter ensures smooth engagement between doctors and their clients, facilitating a trusted environment for telemedicine, consultations, and freelance medical work.
